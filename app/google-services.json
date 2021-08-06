@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609711299992",
+    "firebase_url": "https://myclinic-bc502.firebaseio.com",
+    "project_id": "myclinic-bc502",
+    "storage_bucket": "myclinic-bc502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609711299992:android:fd226a544f8d75fd",
+        "android_client_info": {
+          "package_name": "com.example.myclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609711299992-dsim7e79f34c3nnmhjavt3mqds5572iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myclinic",
+            "certificate_hash": "1794e5fcf79c92f8ffd0b70699b829038c5a8cb5"
+          }
+        },
+        {
+          "client_id": "609711299992-co9ehgk5pavrvc0emmlpvkeein9sqtiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAp0GHVGecsSgNAhFZUV9drD9JlYA6uPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609711299992-co9ehgk5pavrvc0emmlpvkeein9sqtiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
